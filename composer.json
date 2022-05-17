@@ -1,0 +1,20 @@
+{
+  "name": "weimeng",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "authors": [
+    {
+      "name": "weimeng",
+      "email": "563848851@qq.com"
+    }
+  ],
+  "require": {},
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "huaweichenai\\discern\\": "src"
+    }
+  }
+}
