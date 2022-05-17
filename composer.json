@@ -1,9 +1,7 @@
 {
   "name": "anhuiweimeng/wm-utils",
   "version": "1.0.0",
-  "dependencies": {
-      "this is a test"
-  },
+  "dependencies": "this is a test",
   "authors": [
     {
       "name": "anhuiweimeng",
