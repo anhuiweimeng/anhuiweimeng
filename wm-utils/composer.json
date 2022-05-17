@@ -1,0 +1,24 @@
+{
+  "name": "anhuiweimeng/wm-utils",
+  "version": "1.0.0",
+  "dependencies": {
+      'this is a test'
+  },
+  "authors": [
+    {
+      "name": "weimeng",
+      "email": "563848851@qq.com"
+    }
+  ],
+  "require": {},
+  "minimum-stability": "dev",
+  "autoload": {
+     "psr-4": {
+            "wm\\utils\\": "src/"
+        }
+  }
+}
+
+
+
+
