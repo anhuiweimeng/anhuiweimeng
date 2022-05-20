@@ -2,6 +2,7 @@
   "name": "anhuiweimeng/weimeng",
   "version": "1.0.1",
   "dependencies": "this is a test",
+  "license": "MIT",
   "authors": [
     {
       "name": "anhuiweimeng",
