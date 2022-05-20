@@ -1,5 +1,5 @@
 <?php
-namespace weimeng\wm-utils;
+namespace weimeng\wm_utils;
 use think\Db;
 
 /**
