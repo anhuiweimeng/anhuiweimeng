@@ -1,6 +1,6 @@
 {
   "name": "anhuiweimeng/weimeng",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "dependencies": "this is a test",
   "license": "MIT",
   "authors": [
@@ -13,7 +13,7 @@
   "minimum-stability": "dev",
   "autoload": {
      "psr-4": {
-            "wm\\utils\\": "src/"
+            "weimeng": "src/"
         }
   }
 }
